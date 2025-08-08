@@ -5,8 +5,8 @@
 ## Combat
 
 ### Barrows Runs
-<details open>
-<summary><strong>Volledige gids</strong></summary>
+<details>
+<summary><strong>Open</strong></summary>
 
 #### Volgorde
 1. **Dharok** — Melee Pray — Magic  
@@ -39,8 +39,8 @@
 ## Skilling
 
 ### Karambwan Cooking
-<details open>
-<summary><strong>Volledige gids</strong></summary>
+<details>
+<summary><strong>Open</strong></summary>
 
 #### Routes
 - **Karambwanji** — CKR  
