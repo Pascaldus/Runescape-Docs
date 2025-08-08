@@ -1,11 +1,14 @@
 # Runescape Docs
 
-## Barrows Runs
+---
 
+## Combat
+
+### Barrows Runs
 <details open>
 <summary><strong>Volledige gids</strong></summary>
 
-### Volgorde
+#### Volgorde
 1. **Dharok** — Melee Pray — Magic  
 2. **Karil** — Ranged Pray — Magic  
 3. **Guthan** — Melee Pray — Magic  
@@ -15,18 +18,40 @@
 5. **Torag** — Melee Pray — Magic  
 6. **Verac** — Melee Pray — Magic  
 
-### Catacombs
+#### Catacombs
 - Skip tot laatste  
 - 2× Skeleton  
 - 1× Worm
 
-### Gear
+#### Gear
 - Max Defend Gear  
 - D'Hide set  
 - Air Staff
 
-### Teleports
+#### Teleports
 - Shades of Mort'ton minigame TP  
 - Dramen Staff → Cape → BKR → Boaty
+
+</details>
+
+---
+
+## Skilling
+
+### Karambwan Cooking
+<details open>
+<summary><strong>Volledige gids</strong></summary>
+
+#### Routes
+- **Karambwanji** — CKR  
+- **Karambwan** — DKP  
+- **Banken** — DJR  
+
+#### Karambwanji vangen
+- Met fishing net naar CKR
+
+#### Karambwan vangen
+- Met fish barrel naar DKP  
+- Banken bij DJR
 
 </details>
