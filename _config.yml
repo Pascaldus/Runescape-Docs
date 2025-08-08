@@ -1,6 +1,13 @@
-title: Runescape Docs
-theme: just-the-docs
-plugins:
-  - jekyll-remote-theme
+remote_theme: just-the-docs/just-the-docs
+
 color_scheme: dark
 color_scheme_toggle: true
+
+plugins:
+  - jekyll-remote-theme
+
+nav:
+  - title: Combat
+    url: /
+  - title: Skilling
+    url: /
