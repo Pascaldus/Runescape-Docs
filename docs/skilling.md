@@ -1,38 +1,61 @@
+## Skilling
+
+### Mining
+
 ---
-title: Skilling
+
+#### Gear
+
+- Prospector Outfit  
+- Rune Pickaxe / Dragon Pickaxe  
+- Varrock Armour  
+
 ---
 
-# Skilling
+#### Method
 
-## Karambwan Cooking
+- **Iron Ore** → South of Varrock East  
+- Drop ores for XP  
+- Varrock Armour gives double ore chance  
 
-<details>
-<summary><strong>Open</strong></summary>
+---
 
-<br>
+### Woodcutting
 
-### Gear
+---
 
-- (Spirit) Angler outfit  
-- Dramen Staff  
-- Ardougne Cape  
-- Karambwan Vessel  
-- Raw Karambwanji  
-- Fish Barrel  
+#### Gear
 
-### Teleports
+- Lumberjack Outfit  
+- Rune Axe / Dragon Axe  
+- Infernal Axe (optional for auto-burn)  
 
-- **Karambwanji** — CKR  
-- **Karambwan** — DKP  
-- **Banken** — DJR  
+---
 
-### Information
+#### Method
 
-**Karambwanji vangen**  
-- Met fishing net naar CKR  
+- **Willows** → Draynor Village  
+- **Teaks** → Ape Atoll / Hardwood Grove  
+- **Yews** → Edgeville / Varrock  
+- **Magic Trees** → Lletya / Woodcutting Guild  
 
-**Karambwan vangen**  
-- Met fish barrel naar DKP  
-- Banken bij DJR  
+---
 
-</details>
+### Fishing
+
+---
+
+#### Gear
+
+- Angler Outfit  
+- Fishing Rod / Harpoon / Lobster Pot  
+- Rada's Blessing (extra fish chance)  
+
+---
+
+#### Method
+
+- **Fly Fishing** → Barbarian Village (Trout/Salmon)  
+- **Lobsters** → Karamja  
+- **Monkfish** → Piscatoris  
+- **Sharks** → Fishing Guild / Catherby  
