@@ -1,19 +1,22 @@
 remote_theme: just-the-docs/just-the-docs@v0.5.2
 
-color_scheme: dark
-color_scheme_toggle: true
-
 plugins:
   - jekyll-remote-theme
 
-# Just the Docs instellingen
-just_the_docs:
-  collapse_navigation: false       # Zorgt dat de zijbalk standaard uitgeklapt is
-  navigation_depth: 3              # Toon tot 3 niveaus diep in de zijbalk
-  back_to_top: true                # Voeg een 'Terug naar boven'-knop toe
-  back_to_top_text: "Terug naar boven"
+color_scheme: dark
+color_scheme_toggle: true
 
-# Navigatie-items in de zijbalk
+# Thema-instellingen
+just_the_docs:
+  navigation_depth: 3
+  back_to_top: true
+  back_to_top_text: "Terug naar boven"
+  show_last_updated_time: true
+  show_last_updated_date: true
+  search_enabled: true
+  search_tokenizer_separator: /[\s\-/]+/
+
+# Navigatie-structuur (sidebar)
 nav:
   - title: Home
     url: /
