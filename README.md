@@ -1,9 +1,11 @@
-# Barrows Runs
+# Runescape Docs
+
+## Barrows Runs
 
 <details open>
-<summary><strong>Alles — klik om in te klappen</strong></summary>
+<summary><strong>Volledige gids</strong></summary>
 
-## Volgorde
+### Volgorde
 1. **Dharok** — Melee Pray — Magic  
 2. **Karil** — Ranged Pray — Magic  
 3. **Guthan** — Melee Pray — Magic  
@@ -13,17 +15,17 @@
 5. **Torag** — Melee Pray — Magic  
 6. **Verac** — Melee Pray — Magic  
 
-## Catacombs
+### Catacombs
 - Skip tot laatste  
 - 2× Skeleton  
 - 1× Worm
 
-## Gear
+### Gear
 - Max Defend Gear  
 - D'Hide set  
 - Air Staff
 
-## Teleports
+### Teleports
 - Shades of Mort'ton minigame TP  
 - Dramen Staff → Cape → BKR → Boaty
 
