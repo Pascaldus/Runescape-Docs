@@ -13,6 +13,10 @@ just_the_docs:
       output: true
       permalink: /:path/
 
+  # Sidebar behavior
+  collapse_navigation: false       # Zorgt dat de zijbalk standaard uitgeklapt is
+  navigation_depth: 3              # Toon tot 3 niveaus diep in de zijbalk
+
 # Base navigation
 nav:
   - title: Home
