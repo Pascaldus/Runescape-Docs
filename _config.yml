@@ -5,3 +5,11 @@ color_scheme_toggle: true
 
 plugins:
   - jekyll-remote-theme
+
+nav:
+  - title: Home
+    url: /
+  - title: Combat
+    url: /combat
+  - title: Skilling
+    url: /skilling
