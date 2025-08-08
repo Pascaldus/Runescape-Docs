@@ -1,9 +1,3 @@
----
-title: Combat
----
-
-# Combat
-
 ## Barrows Runs
 
 <details>
@@ -19,10 +13,14 @@ title: Combat
 - Dramen Staff  
 - Ring of Dueling  
 
+---
+
 ### Teleports
 
 - Shades of Mort'ton minigame TP  
 - Dramen Staff → Cape → BKR → Boaty  
+
+---
 
 ### Information
 
@@ -35,6 +33,8 @@ title: Combat
    - Rune crossbow + Ranged Gear swap  
 5. **Torag** — Melee Pray — Magic  
 6. **Verac** — Melee Pray — Magic  
+
+---
 
 **Catacombs**  
 - 2× Skeleton  
