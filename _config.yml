@@ -1,5 +1,6 @@
 title: Runescape Docs
 theme: just-the-docs
-
+plugins:
+  - jekyll-remote-theme
 color_scheme: dark
 color_scheme_toggle: true
