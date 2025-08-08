@@ -1,41 +1,30 @@
 # Barrows Runs
 
-<details>
-<summary>Volgorde</summary>
+<details open>
+<summary><strong>Alles — klik om in te klappen</strong></summary>
 
-1. **Dharok** – Melee Pray – Magic  
-2. **Karil** – Ranged Pray – Magic  
-3. **Guthan** – Melee Pray – Magic  
-4. **Ahrim** – Mage Pray – Melee  
+## Volgorde
+1. **Dharok** — Melee Pray — Magic  
+2. **Karil** — Ranged Pray — Magic  
+3. **Guthan** — Melee Pray — Magic  
+4. **Ahrim** — Mage Pray — Melee  
    - Magic gear swap  
-   - Als Karil in catacombs → Mage Pray naar Ahrim  
-5. **Torag** – Melee Pray – Magic  
-6. **Verac** – Melee Pray – Magic  
+   - Als Karil in Catacombs: ga naar Ahrim met Mage Pray  
+5. **Torag** — Melee Pray — Magic  
+6. **Verac** — Melee Pray — Magic  
 
-</details>
-
-<details>
-<summary>Catacombs</summary>
-
+## Catacombs
 - Skip tot laatste  
 - 2× Skeleton  
-- 1× Worm  
+- 1× Worm
 
-</details>
-
-<details>
-<summary>Gear</summary>
-
+## Gear
 - Max Defend Gear  
 - D'Hide set  
-- Air Staff  
+- Air Staff
 
-</details>
-
-<details>
-<summary>Teleports</summary>
-
+## Teleports
 - Shades of Mort'ton minigame TP  
-- Dramen Staff → Cape → BKR → Boaty  
+- Dramen Staff → Cape → BKR → Boaty
 
 </details>
