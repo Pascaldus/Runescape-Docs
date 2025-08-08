@@ -6,18 +6,14 @@ color_scheme_toggle: true
 plugins:
   - jekyll-remote-theme
 
-# Enable sidebar navigation
+# Just the Docs instellingen
 just_the_docs:
-  collections:
-    your-site:
-      output: true
-      permalink: /:path/
-
-  # Sidebar behavior
   collapse_navigation: false       # Zorgt dat de zijbalk standaard uitgeklapt is
   navigation_depth: 3              # Toon tot 3 niveaus diep in de zijbalk
+  back_to_top: true                # Voeg een 'Terug naar boven'-knop toe
+  back_to_top_text: "Terug naar boven"
 
-# Base navigation
+# Navigatie-items in de zijbalk
 nav:
   - title: Home
     url: /
