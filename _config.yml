@@ -6,18 +6,20 @@ color_scheme_toggle: true
 plugins:
   - jekyll-remote-theme
 
+# Enable sidebar navigation
+just_the_docs:
+  collections:
+    your-site:
+      output: true
+      permalink: /:path/
+
+# Base navigation
 nav:
   - title: Home
     url: /
 
   - title: Combat
     url: /combat/
-    children:
-      - title: Barrows Runs
-        url: /combat/barrows/
 
   - title: Skilling
     url: /skilling/
-    children:
-      - title: Karambwan Cooking
-        url: /skilling/karambwan/
