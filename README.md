@@ -1,6 +1,8 @@
-# Runescape Docs
-
 ---
+title: Runescape Docs
+---
+
+# Runescape Docs
 
 ## Combat
 
@@ -36,8 +38,6 @@
 - Aim voor 83%
 
 </details>
-
----
 
 ## Skilling
 
