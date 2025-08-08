@@ -6,28 +6,36 @@ nav_order: 1
 
 # Barrows Runs
 
-Gear:
-- Max defend gear (Torag's Platebody etc)
-- Ranged Gear (D'hide, Ava's accumulator, Rune crossbow, bolts)
-- Air Staff, Chaos runes
-- Dramen Staff
-- Ring of Dueling
+## Gear
 
-Teleports:
-- Shades of Mort'ton minigame TP
-- Dramen Staff → Cape → BKR → Boaty
+- **Defence gear**: Torag’s platebody, platelegs, of vergelijkbare hoge defence bonus.
+- **Ranged**: D’hide set, Ava’s accumulator, Rune crossbow, geschikte bolts.
+- **Magic**: Air staff, Chaos runes.
+- **Overig**: Dramen staff, Ring of dueling.
 
-Volgorde:
-- Dharok - Melee Pray - Magic
-- Karil - Ranged Pray - Magic
-  - Als in Catacombs → Door naar Ahrim
-- Guthan - Melee Pray - Magic
-- Ahrim - Mage Pray - Ranged
-  - Rune crossbow + Ranged Gear swap
-- Torag - Melee Pray - Magic
-- Verac - Melee Pray - Magic
+---
 
-Catacombs:
-- 2x Skeleton
-- 1x Worm
-- Aim voor 83%
+## Teleports
+
+- **Shades of Mort’ton minigame teleport**
+- **Fairy ring route**: Dramen staff → Cape → BKR → Boaty
+
+---
+
+## Volgorde
+
+1. **Dharok** — Pray Melee — Kill met Magic  
+2. **Karil** — Pray Ranged — Kill met Magic  
+   - *Als in Catacombs:* ga direct naar Ahrim  
+3. **Guthan** — Pray Melee — Kill met Magic  
+4. **Ahrim** — Pray Magic — Kill met Ranged  
+   - *Swap naar Rune crossbow + Ranged gear*  
+5. **Torag** — Pray Melee — Kill met Magic  
+6. **Verac** — Pray Melee — Kill met Magic
+
+---
+
+## Catacombs
+
+- **Monsters**: 2× Skeleton, 1× Worm  
+- **Doel**: Mik op **83% kill potential** voor optimale loot
