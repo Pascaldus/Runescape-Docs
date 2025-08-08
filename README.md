@@ -44,7 +44,12 @@
 <summary><strong>Open</strong></summary>
 
 #### Gear
-*(geen speciale gear vermeld)*
+- (Spirit) Angler outfit  
+- Dramen Staff  
+- Ardougne Cape  
+- Karambwan Vessel  
+- Raw Karambwanji  
+- Fish Barrel
 
 #### Teleports
 - **Karambwanji** — CKR  
