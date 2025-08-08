@@ -32,7 +32,7 @@ nav_order: 2
 
 Om Farming Guild contracts snel af te handelen, kun je alvast onderstaande gewassen planten in hun bijbehorende patches:
 
-| Patch Type   | Gewas        |
+| Patch Type   | Plant        |
 |--------------|--------------|
 | Allotment 1  | Watermelon   |
 | Allotment 2  | Strawberries |
