@@ -1,3 +1,4 @@
-theme: jekyll-theme-minimal
-title: Runescape-Docs
-description: Pascal's Runescape Aantekeningen
+title: Runescape Docs
+remote_theme: pmarsceill/just-the-docs
+plugins:
+  - jekyll-remote-theme
