@@ -7,9 +7,17 @@ plugins:
   - jekyll-remote-theme
 
 nav:
-  - title: Runescape Docs
+  - title: Home
     url: /
+
   - title: Combat
-    url: /combat
+    url: /combat/
+    children:
+      - title: Barrows Runs
+        url: /combat/barrows/
+
   - title: Skilling
-    url: /skilling
+    url: /skilling/
+    children:
+      - title: Karambwan Cooking
+        url: /skilling/karambwan/
