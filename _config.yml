@@ -2,14 +2,3 @@ title: Runescape Docs
 remote_theme: pmarsceill/just-the-docs
 plugins:
   - jekyll-remote-theme
-
-sass:
-  style: compressed
-
-defaults:
-  -
-    scope:
-      path: ""
-    values:
-      css:
-        - assets/css/custom.css
