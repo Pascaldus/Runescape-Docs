@@ -9,7 +9,7 @@ nav_order: 1
 Combat doelen — vink ze af als ze klaar zijn.  
 De lijst wordt automatisch opgeslagen in je browser, dus je voortgang blijft bewaard.
 
-# Berserker Ring Grind
+## Berserker Ring Grind
 
 <div id="todo-list">
   <label><input type="checkbox" data-id="barrows"> Barrows farmen tot 2500 Death runes.</label><br>
@@ -17,6 +17,14 @@ De lijst wordt automatisch opgeslagen in je browser, dus je voortgang blijft bew
   <label><input type="checkbox" data-id="iban"> Iban's Staff rechargen.</label><br>
   <label><input type="checkbox" data-id="rex"> Dagannoth Rex farmen voor Berserker ring of out of Death Runes.</label>
 </div>
+
+**Berserker Ring geloot?:**  
+Imbue hem op deze manier → [YouTube Video](https://youtu.be/-Rb1osRt1Fo)
+
+---
+
+### Etc
+Out of food? Ga dan naar [Karambwan Cooking](https://pascaldus.github.io/Runescape-Docs/skilling/karambwan.html)
 
 <script>
   document.addEventListener("DOMContentLoaded", function() {
