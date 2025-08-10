@@ -16,7 +16,7 @@ De lijst wordt automatisch opgeslagen in je browser, dus je voortgang blijft bew
 <div id="todo-list">
   <label><input type="checkbox" data-id="barrows"> Barrows farmen tot 2500 Death runes.</label><br>
   <label><input type="checkbox" data-id="varlamore"> Varlamore Nobles tot gold voor 12.500 fire runes.</label><br>
-  <label><input type="checkbox" data-id="iban"> Iban's Staff rechargen. <a href="https://www.youtube.com/watch?v=bWB1y95onDg" target="_blank" rel="noopener">Guide</a></label><br>
+  <label><input type="checkbox" data-id="iban"> Iban's Staff rechargen. <a href="https://www.youtube.com/watch?v=bWB1y95onDg" target="_blank" rel="noopener">Youtube Video</a></label><br>
   <label><input type="checkbox" data-id="rex"> Dagannoth Rex farmen voor Berserker ring of out of Death Runes.</label>
 </div>
 
