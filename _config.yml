@@ -17,6 +17,7 @@ just_the_docs:
   show_last_updated_date: true
   search_enabled: true
   search_tokenizer_separator: /[\s\-/]+/
+  last_updated: true
 
 # Navigatie-structuur (sidebar)
 nav:
