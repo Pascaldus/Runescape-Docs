@@ -9,6 +9,8 @@ nav_order: 1
 Combat doelen — vink ze af als ze klaar zijn.  
 De lijst wordt automatisch opgeslagen in je browser, dus je voortgang blijft bewaard.
 
+---
+
 ## Berserker Ring Grind
 
 <div id="todo-list">
