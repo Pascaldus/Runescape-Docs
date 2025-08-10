@@ -1,6 +1,6 @@
 ---
-title: To-Do
-parent: to-do
+title: Doelen
+parent: To-do
 nav_order: 1
 ---
 
