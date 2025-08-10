@@ -24,12 +24,19 @@ Imbue hem op deze manier → [YouTube Video](https://youtu.be/-Rb1osRt1Fo)
 ---
 
 ## Zombie Axe Grind
-[Zombie Axe Wiki](https://oldschool.runescape.wiki/w/Zombie_axe)  
 
 <div id="todo-list-axe">
-  <label><input type="checkbox" data-id="armouredzombies"> [Armoured Zombies](https://oldschool.runescape.wiki/w/Armoured_zombie_(Zemouregal%27s_Base)) killen voor Broken Zombie Axe.</label><br>
-  <label><input type="checkbox" data-id="smithing70"> [Smithing](https://oldschool.runescape.wiki/w/Giants%27_Foundry/Strategies) tot level 70 levelen via Giants' Foundry.</label><br>
-  <label><input type="checkbox" data-id="maken"> Zombie Axe maken.</label>
+  <label>
+    <input type="checkbox" data-id="armouredzombies">
+    <a href="https://oldschool.runescape.wiki/w/Armoured_zombie_(Zemouregal%27s_Base)" target="_blank" rel="noopener">Armoured Zombies</a> killen voor Broken Zombie Axe.
+  </label><br>
+
+  <label>
+    <input type="checkbox" data-id="smithing70">
+    <a href="https://oldschool.runescape.wiki/w/Giants%27_Foundry/Strategies" target="_blank" rel="noopener">Smithing</a> tot level 70 levelen via Giants' Foundry.
+  </label><br>
+
+  <label><input type="checkbox" data-id="maken"> Zombie Axe maken.</label><br>
 </div>
 
 ---
@@ -42,16 +49,4 @@ Out of food? Ga dan naar [Karambwan Cooking](https://pascaldus.github.io/Runesca
     const initCheckboxes = (selector) => {
       const checkboxes = document.querySelectorAll(selector + ' input[type="checkbox"]');
       checkboxes.forEach(checkbox => {
-        const saved = localStorage.getItem('todo-' + checkbox.dataset.id);
-        if (saved === 'true') checkbox.checked = true;
-        
-        checkbox.addEventListener('change', function() {
-          localStorage.setItem('todo-' + checkbox.dataset.id, checkbox.checked);
-        });
-      });
-    };
-
-    initCheckboxes('#todo-list');
-    initCheckboxes('#todo-list-axe');
-  });
-</script>
+        const save
