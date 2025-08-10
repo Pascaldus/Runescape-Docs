@@ -1,9 +1,7 @@
-
 ---
-layout: default
-title: Combat
-parent: To-Do
-nav_order: 1
+title: To-Do
+parent: todo
+nav_order: 2
 ---
 
 # To-Do List
