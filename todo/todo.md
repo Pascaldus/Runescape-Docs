@@ -1,7 +1,7 @@
 ---
 title: To-Do
-parent: todo
-nav_order: 2
+parent: to-do
+nav_order: 1
 ---
 
 # To-Do List
