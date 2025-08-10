@@ -1,6 +1,8 @@
+
 ---
 layout: default
-title: To-Do
+title: Combat
+parent: To-Do
 nav_order: 1
 ---
 
@@ -8,6 +10,8 @@ nav_order: 1
 
 Combat doelen — vink ze af als ze klaar zijn.  
 De lijst wordt automatisch opgeslagen in je browser, dus je voortgang blijft bewaard.
+
+# Berserker Ring Grind
 
 <div id="todo-list">
   <label><input type="checkbox" data-id="barrows"> Barrows farmen tot 2500 Death runes.</label><br>
